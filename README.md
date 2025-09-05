@@ -4,3 +4,10 @@ This is free, with an optional lifetime key that is the same for everyone, and i
 
 # Script 🧾
 `loadstring(game:HttpGet("https://raw.githubusercontent.com/ignpewnie/archhub/refs/heads/main/loader.lua"))()`
+
+# Games
+
+- [UPD Case Rolling RNG](<https://www.roblox.com/games/128886701132186/UPD-Case-Rolling-RNG>)
+- [Build A Beehive Big Tree](<https://www.roblox.com/games/113604074601559/Build-A-Beehive-Big-Tree>)
+- [STEAL COOKIES](<https://www.roblox.com/games/133719960214587/STEAL-COOKIES>)
+- [Dont Wake the Brainrots](<https://www.roblox.com/games/118915549367482/Dont-Wake-the-Brainrots>)
